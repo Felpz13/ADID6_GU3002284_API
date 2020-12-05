@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ADID6_GU3002284_API</name>
+    </assembly>
+    <members>
+        <member name="M:ADID6_GU3002284_API.Controllers.ItensController.Obter(System.Nullable{System.Int32})">
+            <summary>
+            buscar item no cardápio
+            </summary>
+            <param name="itemId"> caso vazio busca todos</param>
+            <returns> Item buscado.</returns>
+        </member>
+        <member name="M:ADID6_GU3002284_API.Controllers.ItensController.Incluir(ADID6_GU3002284_API.Models.itensController.IncluirItemModel)">
+            <summary>
+            Adicionar item no cardápio
+            </summary>
+            <param name="model"><seealso cref="T:ADID6_GU3002284_API.Models.itensController.IncluirItemModel"/></param>
+            <returns> Id do item criado.</returns>
+        </member>
+        <member name="M:ADID6_GU3002284_API.Controllers.ItensController.Atualizar(ADID6_GU3002284_API.Models.itensController.AtualizarItemModel)">
+            <summary>
+            Altera item no cardápio
+            </summary>
+            <param name="model"><seealso cref="T:ADID6_GU3002284_API.Models.itensController.AtualizarItemModel"/></param>
+            <returns> Item atualizado com sucesso.</returns>
+        </member>
+        <member name="M:ADID6_GU3002284_API.Controllers.ItensController.Remover(System.Int32)">
+            <summary>
+            Remove item no cardápio
+            </summary>
+            <param name="itemId"></param>
+            <returns> Item removido com sucesso.</returns>
+        </member>
+    </members>
+</doc>

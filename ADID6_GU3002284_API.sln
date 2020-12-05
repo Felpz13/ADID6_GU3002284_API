@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADID6_GU3002284_API", "ADID6_GU3002284_API\ADID6_GU3002284_API.csproj", "{0ADF535F-7C07-455B-B410-C2A101E3A1E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ADF535F-7C07-455B-B410-C2A101E3A1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADF535F-7C07-455B-B410-C2A101E3A1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADF535F-7C07-455B-B410-C2A101E3A1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADF535F-7C07-455B-B410-C2A101E3A1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3451166-022D-45D2-8B73-A1EA045C66F3}
+	EndGlobalSection
+EndGlobal

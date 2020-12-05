@@ -1,0 +1,3 @@
+# ADID6_GU3002284_API
+
+![](ADID6_GU3002284_API/apiTeste.gif)
